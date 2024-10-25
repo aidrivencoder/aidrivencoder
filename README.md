@@ -1,7 +1,5 @@
 # AI-Driven Coder
 
-![AI-Driven Coder Banner](https://api.placeholder.com/1200/300)
-
 ## 👋 Welcome to AI-Driven Coder
 
 Demystifying the intersection of traditional software development and AI-powered development tools through practical, hands-on tutorials and real-world implementations.
